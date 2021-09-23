@@ -1,2 +1,2 @@
 # Space-Fight
-This is the !st Semister project which is based on the the game.
+This is the 1st Semister project which is based on the the game.
